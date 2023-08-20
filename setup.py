@@ -9,7 +9,7 @@ with open("LICENSE") as f:
 
 requirements = [
     "openpyxl==2.6.4 ; python_version < '3.0' ",
-    "openpyxl~=3.0.3 ; python_version >= '3.0' ",
+    "openpyxl~=3.1.2 ; python_version >= '3.0' ",
 ]
 
 
